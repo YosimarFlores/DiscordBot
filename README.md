@@ -1,4 +1,4 @@
-# Discord Bot - Command and Reaction Bot
+# Discord Bot - Command and Reaction Bot 🤖
 
 This Discord bot is built using Python and the `discord.py` library. It demonstrates basic functionalities such as handling simple slash commands and responding to user messages and reactions.
 
